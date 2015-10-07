@@ -1,0 +1,19 @@
+{
+    "name": "atoum/vw-extension",
+    "require": {
+        "atoum/atoum": "<3.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrien Gallou",
+            "email": "adriengallou@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "mageekguy\\atoum\\vw\\": "classes"
+        },
+        "files": ["autoloader.php"]
+    }
+}
