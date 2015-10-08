@@ -2,7 +2,7 @@
 
 vw-extension makes atoum failing test cases succeed in continuous integration tools.
 
-Inspired by [phpunit-ww](https://github.com/hmlb/phpunit-vw).
+Inspired by [phpunit-vw](https://github.com/hmlb/phpunit-vw).
 
 ## Install it
 
