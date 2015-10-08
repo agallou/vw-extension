@@ -52,3 +52,22 @@ require_once __DIR__ . DIRECTORY_SEPARATOR . 'vendor' . DIRECTORY_SEPARATOR . 'a
 
 $runner->addExtension(new \mageekguy\atoum\vw\extension($script));
 ```
+
+## CI tools detection
+
+Currently detects :
+
+* TravisCI
+* Appveyor
+* Bamboo
+* Buildkite
+* CircleCI
+* CodeShip
+* GitlabCI
+* Go CD
+* Hudson
+* Jenkins
+* PHPCI
+* TeamCity
+
+Other CI tools using environment variables like 'BUILD_ID' would be detected as well.
