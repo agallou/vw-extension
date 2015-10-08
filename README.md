@@ -29,7 +29,7 @@ class extension extends atoum\test
 Running in development environment:
 ![Failing in dev environment](doc/failure.png)
 
-Running in CI environment:
+Running in CI environment: [![Build Status](https://travis-ci.org/agallou/vw-extension.svg)](https://travis-ci.org/agallou/vw-extension)
 
 ![Succeeded in CI environment](doc/success.png)
 
