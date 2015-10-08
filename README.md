@@ -71,3 +71,8 @@ Currently detects :
 * TeamCity
 
 Other CI tools using environment variables like 'BUILD_ID' would be detected as well.
+
+## License
+
+vw-extension is available under the MIT License.
+
